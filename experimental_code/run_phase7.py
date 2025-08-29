@@ -72,7 +72,7 @@ def main():
     print(f"\nConfiguration:")
     print(f"  Output directory: {args.output_dir}")
     print(f"  Phase 6 directory: {args.phase6_dir}")
-    print(f"  RCFT parameters: α={args.alpha}, β={args.beta}, γ={args.gamma}")
+    print(f"  RCFT parameters: alpha={args.alpha}, beta={args.beta}, gamma={args.gamma}")
     print(f"  Patterns: {pattern_ids}")
     print(f"  Blend ratio: {args.blend_ratio}, Method: {args.blend_method}")
     print(f"  Injection strengths: {injection_strengths}")

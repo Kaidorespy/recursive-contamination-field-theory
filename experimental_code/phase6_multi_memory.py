@@ -147,7 +147,7 @@ class Phase6MultiMemory:
         # Setup base experiment
         self._initialize_base_experiment()
         
-        self.logger.info(f"Phase VI initialized with α={alpha}, β={beta}, γ={gamma}")
+        self.logger.info(f"Phase VI initialized with alpha={alpha}, beta={beta}, gamma={gamma}")
     
     def _setup_directories(self):
         """Create necessary directories"""
