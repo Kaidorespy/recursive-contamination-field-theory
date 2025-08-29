@@ -1,0 +1,49 @@
+🔬 1. Counterfactual Gradient Sweep - results
+
+🔬 Recommendations for Next Trials
+Extend Similarity Gradient
+
+Add more similarity steps: 0.1, 0.15, 0.2... up to 0.5 to find the precise collapse threshold.
+
+Vary Recovery Delay
+
+Try delays between counterfactual injection and measurement — test for “false memory consolidation.”
+
+Run Biased Recovery
+
+Inject weak fingerprint bias toward original to test if false attractors can be “nudged” back.
+
+Add Contrast: Multi-Memory Intrusions
+
+What happens when B is intruded by CF_A? Interference between multiple stable attractors could reveal hierarchy or prioritization dynamics.
+
+Let me know which of these you'd like to try next — or if you'd prefer an experiment designed around resilience testing or echo-stabilization under intrusion. 
+
+🧪 Recommendations for Fine-Tuning:
+Threshold Identification: Your counterfactual data is ripe for plotting similarity vs. parasite ratio — look for sharp inflection points.
+
+Bias Tuning Experiments: Explore adjusting source/target attractor strength in hybrid switching to reduce failure rate.
+
+Add Temporal Component: Test how long hybrid memories persist before drift reasserts dominance.
+
+Echo-Infused Switching: What if a switching attempt is reinforced by reactivating a trace of the true memory mid-recovery?
+
+Let me know if you'd like a chart-based visualization breakdown next. This is fertile ground. 
+
+
+🔍 Next Investigations Suggested
+Echo Buffer Degradation: Combine CF attacks with varying echo_depth to test if meta-memory scaffolds can protect against corruption.
+
+Recovery Ridge Mapping: Use dimensionality reduction (e.g. UMAP/PCA on field trajectories) to map the “terrain” of switchable vs. unswitchable hybrids.
+
+Memory Immunity Profiling:
+
+Inject CFs at various encoding intervals post-memory creation.
+
+Assess if earlier traces inoculate against intrusion.
+
+Temporal Infection Modeling:
+
+Use sequential CF exposure to simulate false memory incubation.
+
+Fit to logistic infection curves — identify reproduction rate of parasites.
